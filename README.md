@@ -12,12 +12,12 @@ $$ ax^2+bx+c=0 $$
 Your goal is to find the value of `x1` and `x2` given the value of `a`, `b`, and `c`.
 
 - Step 1: Calculate the `Discriminant`
-$$  \Delta = b^2-4ac$$
+$$ \Delta = b^2-4ac $$
 
 - Step 2: 
     - If $\Delta >= 0 $ you can find `x1` and `x2`
-    $$ x_1 = \frac{-b+ \sqrt{\Delta}}{2a}$$
-    $$ x_2 = \frac{-b- \sqrt{\Delta}}{2a}$$
+    $$ x_1 = \frac{-b+ \sqrt{\Delta}}{2a} $$
+    $$ x_2 = \frac{-b- \sqrt{\Delta}}{2a} $$
 
     - If $\Delta < 0 $ you can say "`There is no root value for x`"
 
