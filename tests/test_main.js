@@ -16,6 +16,7 @@ assert.strictEqual(
 assert.strictEqual(
     formatSum(1), "1"
 )
+
 assert.strictEqual(
     formatSum(3), "1+2+3"
 )
